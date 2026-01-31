@@ -121,7 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv_sprint_2
 env/
 venv/
 ENV/

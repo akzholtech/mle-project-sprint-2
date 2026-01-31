@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-project-sprint-2/model_improvement/mlruns/436498815929779788
+creation_time: 1769747844838
+experiment_id: '436498815929779788'
+last_update_time: 1769747844838
+lifecycle_stage: active
+name: eda_linear_model
